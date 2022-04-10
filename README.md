@@ -1,4 +1,4 @@
-# Exercise-05a-Procedural-Generation
+## Project 05—FPS Maze
 
 Exercise for MSCH-C220
 
